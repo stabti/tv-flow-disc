@@ -2,7 +2,11 @@
 
 Total variation (TV) flow applied to two discs. Nothing shrinks: the discs lose contrast at a precise rate until they vanish, the small one first.
 
-[Watch the video](media/tv_disc.mp4)
+
+
+https://github.com/user-attachments/assets/38e36028-0ef0-40c2-b2f7-8dbb9c6f4e85
+
+
 
 ## What you are seeing
 
